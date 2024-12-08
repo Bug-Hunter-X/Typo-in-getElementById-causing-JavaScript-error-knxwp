@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML/JavaScript interaction. The bug.html file contains a typo in the function call to access a DOM element using getElementById. This leads to a JavaScript runtime error preventing the intended behavior of hiding the div element. The bugSolution.html demonstrates the corrected way to implement this.
